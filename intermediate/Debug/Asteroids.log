@@ -1,0 +1,33 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+f:\polymono3\c++\game development\asteroids\asteroids\src\animspritecomponent.cpp(21): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  Asteroid.cpp
+  BGSpriteComponent.cpp
+  CircleComponent.cpp
+  Component.cpp
+  Enemy.cpp
+  EnemyLaser.cpp
+  Explosion.cpp
+  Game.cpp
+  InputComponent.cpp
+  Laser.cpp
+  Main.cpp
+  Math.cpp
+  MoveComponent.cpp
+  PhysicsInputComponent.cpp
+  PhysicsMoveComponent.cpp
+  Random.cpp
+  Ship.cpp
+  SoundManager.cpp
+  Generating Code...
+  Compiling...
+  SpriteComponent.cpp
+  TileMapComponent.cpp
+f:\polymono3\c++\game development\asteroids\asteroids\src\tilemapcomponent.cpp(24): warning C4018: '<': signed/unsigned mismatch
+f:\polymono3\c++\game development\asteroids\asteroids\src\tilemapcomponent.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Asteroids.vcxproj -> F:\polymono3\C++\Game Development\Asteroids\Asteroids\build\Debug\Asteroids.exe
